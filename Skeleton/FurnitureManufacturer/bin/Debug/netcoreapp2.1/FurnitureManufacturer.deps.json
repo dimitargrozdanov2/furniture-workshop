@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "8ad7879f2c7efc2703b1e98cf8adfead7e9eb147"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "FurnitureManufacturer/1.0.0": {
+        "dependencies": {
+          "Autofac": "4.9.1",
+          "Bytes2you.Validation": "2.0.0"
+        },
+        "runtime": {
+          "FurnitureManufacturer.dll": {}
+        }
+      },
+      "Autofac/4.9.1": {
+        "runtime": {
+          "lib/netstandard2.0/Autofac.dll": {
+            "assemblyVersion": "4.9.1.0",
+            "fileVersion": "4.9.1.0"
+          }
+        }
+      },
+      "Bytes2you.Validation/2.0.0": {
+        "runtime": {
+          "lib/portable-win+net40+sl40+wp+Xbox40/Bytes2you.Validation.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FurnitureManufacturer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autofac/4.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Dk3UQD94XM2HBjquOZoPWrQBUcv9G/K24K/qTiUJi13Fz/0X/wxcQi8z3K1ProCPxuZvadSgrzbpbni2HX1YTg==",
+      "path": "autofac/4.9.1",
+      "hashPath": "autofac.4.9.1.nupkg.sha512"
+    },
+    "Bytes2you.Validation/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GeyaaJbxB6ysiS18UA+Ky3EZHr3Vls2p0qQfIYIPvw5yj6DNMT83VErYixPTc/p/XpkJYG/Yl+4G90Nosd8Rrw==",
+      "path": "bytes2you.validation/2.0.0",
+      "hashPath": "bytes2you.validation.2.0.0.nupkg.sha512"
+    }
+  }
+}
