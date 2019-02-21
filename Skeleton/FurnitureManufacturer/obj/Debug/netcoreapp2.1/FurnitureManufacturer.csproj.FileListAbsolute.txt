@@ -9,3 +9,14 @@ C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\Ske
 C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\Skeleton\FurnitureManufacturer\obj\Debug\netcoreapp2.1\FurnitureManufacturer.AssemblyInfo.cs
 C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\Skeleton\FurnitureManufacturer\obj\Debug\netcoreapp2.1\FurnitureManufacturer.dll
 C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\Skeleton\FurnitureManufacturer\obj\Debug\netcoreapp2.1\FurnitureManufacturer.pdb
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\bin\Debug\netcoreapp2.1\FurnitureManufacturer.deps.json
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\bin\Debug\netcoreapp2.1\FurnitureManufacturer.runtimeconfig.json
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\bin\Debug\netcoreapp2.1\FurnitureManufacturer.runtimeconfig.dev.json
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\bin\Debug\netcoreapp2.1\FurnitureManufacturer.dll
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\bin\Debug\netcoreapp2.1\FurnitureManufacturer.pdb
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\obj\Debug\netcoreapp2.1\FurnitureManufacturer.csprojAssemblyReference.cache
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\obj\Debug\netcoreapp2.1\FurnitureManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\obj\Debug\netcoreapp2.1\FurnitureManufacturer.AssemblyInfoInputs.cache
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\obj\Debug\netcoreapp2.1\FurnitureManufacturer.AssemblyInfo.cs
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\obj\Debug\netcoreapp2.1\FurnitureManufacturer.dll
+C:\Users\grozdeto\Desktop\Telerik\Workshops\Workshop 5 - Furniture\Furniture\furniture-workshop\Skeleton\FurnitureManufacturer\obj\Debug\netcoreapp2.1\FurnitureManufacturer.pdb

@@ -9,37 +9,21 @@ namespace FurnitureManufacturer.Engine
 {
     public sealed class FurnitureManufacturerEngine : IFurnitureManufacturerEngine
     {
-        private static IFurnitureManufacturerEngine instance;
 
         private readonly ICompanyFactory companyFactory;
         private readonly IFurnitureFactory furnitureFactory;
-
-        private readonly IDictionary<string, ICompany> companies;
-        private readonly IDictionary<string, IFurniture> furnitures;
-
+        private readonly IDataBase database;
         private readonly IRenderer renderer;
 
-        private FurnitureManufacturerEngine()
+        private FurnitureManufacturerEngine(ICompanyFactory companyFactory, IFurnitureFactory furnitureFactory, IDataBase database, IRenderer renderer)
         {
-            this.companyFactory = new CompanyFactory();
-            this.furnitureFactory = new FurnitureFactory();
-            this.companies = new Dictionary<string, ICompany>();
-            this.furnitures = new Dictionary<string, IFurniture>();
-            this.renderer = new ConsoleRenderer();
+            this.companyFactory = companyFactory;
+            this.furnitureFactory = furnitureFactory;
+            this.database = database;
+            this.renderer = renderer;
         }
 
-        public static IFurnitureManufacturerEngine Instance
-        {
-            get
-            {
-                if (instance == null)
-                {
-                    instance = new FurnitureManufacturerEngine();
-                }
-
-                return instance;
-            }
-        }
+      
 
         public void Start()
         {

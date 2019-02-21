@@ -20,7 +20,6 @@ namespace FurnitureManufacturer
 
             var engine = container.Resolve<IFurnitureManufacturerEngine>();
             engine.Start(); 
-            FurnitureManufacturerEngine.Instance.Start();
         }
     }
 }

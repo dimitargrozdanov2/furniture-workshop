@@ -737,11 +737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grozdeto\\Desktop\\Telerik\\Workshops\\Workshop 5 - Furniture\\Furniture\\Skeleton\\FurnitureManufacturer\\FurnitureManufacturer.csproj",
+      "projectUniqueName": "C:\\Users\\grozdeto\\Desktop\\Telerik\\Workshops\\Workshop 5 - Furniture\\Furniture\\furniture-workshop\\Skeleton\\FurnitureManufacturer\\FurnitureManufacturer.csproj",
       "projectName": "FurnitureManufacturer",
-      "projectPath": "C:\\Users\\grozdeto\\Desktop\\Telerik\\Workshops\\Workshop 5 - Furniture\\Furniture\\Skeleton\\FurnitureManufacturer\\FurnitureManufacturer.csproj",
+      "projectPath": "C:\\Users\\grozdeto\\Desktop\\Telerik\\Workshops\\Workshop 5 - Furniture\\Furniture\\furniture-workshop\\Skeleton\\FurnitureManufacturer\\FurnitureManufacturer.csproj",
       "packagesPath": "C:\\Users\\grozdeto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grozdeto\\Desktop\\Telerik\\Workshops\\Workshop 5 - Furniture\\Furniture\\Skeleton\\FurnitureManufacturer\\obj\\",
+      "outputPath": "C:\\Users\\grozdeto\\Desktop\\Telerik\\Workshops\\Workshop 5 - Furniture\\Furniture\\furniture-workshop\\Skeleton\\FurnitureManufacturer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
